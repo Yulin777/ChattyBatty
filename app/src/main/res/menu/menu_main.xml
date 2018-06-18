@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ivan.firebase.MainActivity">
+
+    <item
+        android:id="@+id/original_content"
+        android:orderInCategory="100"
+        android:title="@string/original_content"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/censored_content"
+        android:orderInCategory="100"
+        android:title="@string/censored_content"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/antagonized_content"
+        android:orderInCategory="100"
+        android:title="@string/antagonized_content"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/log_out"
+        android:orderInCategory="100"
+        android:title="@string/log_out"
+        app:showAsAction="never" />
+
+</menu>

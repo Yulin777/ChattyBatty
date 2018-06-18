@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Chatty Batty</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="login_register">New user, tap here to register</string>
+    <string name="log_out">Log out</string>
+    <string name="logout">Log out</string>
+    <string name="original_content">original content</string>
+    <string name="censored_content">censored content</string>
+    <string name="antagonized_content">antagonized content</string>
+    <string name="user_successfully_added">User successfully added.</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="loading">loading...</string>
+    <string name="please_wait">Please wait</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="action_logout">Log out</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+</resources>
