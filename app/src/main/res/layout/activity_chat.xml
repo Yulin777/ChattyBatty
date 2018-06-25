@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
-    tools:context="com.example.ivan.firebase.ui.activities.LoginActivity">
+    android:background="@drawable/tanbg"
+    tools:context="com.yulin.ivan.firebase.ui.activities.LoginActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -15,11 +16,43 @@
 
     </android.support.design.widget.AppBarLayout>
 
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/filter_selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:weightSum="3">
+
+        <RadioButton
+            android:id="@+id/original"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="setFilterChoiceOriginal"
+            android:text="@string/original" />
+
+        <RadioButton
+            android:id="@+id/censored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="setFilterChoiceCensored"
+            android:text="@string/censored" />
+
+        <RadioButton
+            android:id="@+id/antagonized"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="setFilterChoiceAntagonized"
+            android:text="@string/antagonized" />
+    </RadioGroup>
+
     <FrameLayout
         android:id="@+id/frame_layout_content_chat"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/whatsappbg"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
     </FrameLayout>

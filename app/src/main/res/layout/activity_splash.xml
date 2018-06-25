@@ -6,4 +6,4 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical"
     android:background="@drawable/polybg"
-    tools:context="com.example.ivan.firebase.ui.activities.SplashActivity" />
+    tools:context="com.yulin.ivan.firebase.ui.activities.SplashActivity" />
