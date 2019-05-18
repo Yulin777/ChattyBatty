@@ -1,6 +1,8 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
   </component>
