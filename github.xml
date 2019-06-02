@@ -1,6 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="dc307c91-9466-444b-98b0-9316e5b06afd" name="Yulin777">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
-    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="COPY_URL_GIST" value="true" />
   </component>
 </application>
