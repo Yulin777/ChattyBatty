@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/givolaj/travily-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PavelShe19/AndroidFinalProject" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/College/Android" />
