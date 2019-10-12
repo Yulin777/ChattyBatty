@@ -6,6 +6,7 @@
   </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
     <option name="COPY_URL_GIST" value="true" />
   </component>
 </application>
