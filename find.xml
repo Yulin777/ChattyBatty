@@ -11,9 +11,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>Map*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>mapbo*.java</mask>
     <mask>splash*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
