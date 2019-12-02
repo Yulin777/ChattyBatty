@@ -3,6 +3,7 @@
     <option name="state">
       <GlobalState>
         <option name="hideForNonLayoutFiles" value="false" />
+        <option name="visible" value="false" />
       </GlobalState>
     </option>
   </component>
