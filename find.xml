@@ -13,7 +13,7 @@
     <mask>Map*.java</mask>
     <mask>splash*</mask>
     <mask>mapbo*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
