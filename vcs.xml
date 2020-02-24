@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/liorxxx/UnitConverter" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Yulin777/unit-converter-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/College/Android" />
